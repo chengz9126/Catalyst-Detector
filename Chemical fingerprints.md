@@ -1,4 +1,4 @@
-Catalyst-DetTransition metal oxide catalysts with metal dopants are a class of catalysts that have been widely studied for their potential in a variety of chemical reactions. Their chemical fingerprints can include several properties that are related to the transition metal oxide and the dopant metal.
+Transition metal oxide catalysts with metal dopants are a class of catalysts that have been widely studied for their potential in a variety of chemical reactions. Their chemical fingerprints can include several properties that are related to the transition metal oxide and the dopant metal.
 
 - Elemental composition: This includes the ratio of transition metal to dopant metal, as well as the oxidation states of the transition metal and dopant metal.
 
